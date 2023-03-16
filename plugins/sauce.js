@@ -8,6 +8,7 @@ module.exports = {
       api_key: 'ffcd095ae4c7f0ff0246d02682d6f3d89790b9b2',
       output_type: '2',
       db: '999',
+      hide: '0',
       url: req.query.url
     }, {
       headers: {
